@@ -91,8 +91,8 @@ export const projects: Project[] = [
         client: "personal",
         year: "2023",
         description:
-            "Interactive digital book platform developed for Raytheon. Features smooth page transitions, high-resolution graphics, and an immersive user experience designed for professional training.",
-        roles: ["Full Stack", "UI/UX", "Interactive Design"],
+            "Interactive digital book platform developed as personal project. Features smooth page transitions, high-resolution graphics, and an immersive user experience designed for professional training.",
+        roles: ["Full Stack", "UI/UX", "Payment processing"],
         color: "#d1d5db",
         images: [
             "/projects/rayteonbook1.png",
@@ -108,7 +108,7 @@ export const projects: Project[] = [
         client: "personal",
         year: "2024",
         description:
-            "Best Burmese content generation platform for social media. Create engaging posts for Facebook, Instagram, Twitter and all major social platforms. Trusted by 10,000+ creators with 4.9/5 rating.",
+            "Best Burmese content generation platform for social media. Create engaging posts for Facebook, Instagram, Twitter and all major social platforms.",
         roles: ["Full-Stack", "AI Content", "Social Media"],
         link: "https://content-padauk.vercel.app/",
         color: "#f59e0b",

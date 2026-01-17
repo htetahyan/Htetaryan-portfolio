@@ -33,6 +33,7 @@ export const metadata: Metadata = {
     description:
       "Full-stack developer crafting beautiful and performant web applications.",
     type: "website",
+
   },
 };
 
